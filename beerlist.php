@@ -1,7 +1,7 @@
 <?php
 
 /*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+ * Create a simple UI to update the beer database for the website.
+ * 
  */
 ?>
