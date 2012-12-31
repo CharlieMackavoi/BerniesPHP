@@ -46,18 +46,7 @@
 			});
 		});
    </script> 
-   
-	<!--[if lt IE 8]>
-        <div style=' clear: both; text-align:center; position: relative;'>
-            <a href="http://www.microsoft.com/windows/internet-explorer/default.aspx?ocid=ie6_countdown_bannercode"><img src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0"  alt="" /></a>
-        </div>
-	<![endif]-->
-    <!--[if lt IE 9]>
-   		<script type="text/javascript" src="js/html5.js"></script>
-        <link rel="stylesheet" href="css/ie.css" type="text/css" media="screen">
-        <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-    	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic' rel='stylesheet' type='text/css'> 
-	<![endif]-->
+
     
     
     <script type="text/javascript">
@@ -196,12 +185,3 @@
    </script>
 </body>
 </html>
-
-
-<?php
-
-/*
- * Create a simple UI to update the beer database for the website.
- * 
- */
-?>
