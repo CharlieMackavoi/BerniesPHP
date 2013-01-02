@@ -85,8 +85,8 @@
                                             <nav>
                                                 <ul class="menu">
                                                     <li><a href="Home.html">Home</a></li>
-                                                    <li><a href="Beers.html">Our beers</a></li>
-                                                    <li><a class="current" href="Menu.html">Menu</a></li>
+                                                    <li><a class="current" href="Beers.html">Our beers</a></li>
+                                                    <li><a href="Menu.html">Menu</a></li>
                                                     <li><a href="Pictures.html">Photos</a></li>
                                                     <li><a href="Specials.html">Events and Specials</a></li>
                                                     <li><a href="Contact.html">Contacts</a></li>
