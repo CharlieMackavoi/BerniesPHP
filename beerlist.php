@@ -145,7 +145,24 @@
                                             <center>
                                      <h3 class="indent-bot2">Add Beer</h3>
 
+<?php
+  $name = $_POST['beername'];
+  $location = $_POST['location'];
+  $abv = $_POST['abv'];
+  $other = $_POST['other'];
 
+  #$to = 'owen@aliensabductedme.com';
+  #$subject = 'Aliens Abducted Me - Abduction Report';
+  #$msg = "$name was abducted $when_it_happened and was gone for $how_long.\n" .
+  #  "Number of aliens: $how_many\n" .
+  #  "Alien description: $alien_description\n" .
+  #  "What they did: $what_they_did\n" .
+  #  "Fang spotted: $fang_spotted\n" .
+  #  "Other comments: $other";
+  # mail($to, $subject, $msg, 'From:' . $email);
+
+  echo $name . 'Has been added to the list.<br />';
+?>
                                       
                                  </center>               
 
